@@ -1,0 +1,15 @@
+{
+  "name": "repo-finder",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "scss": "^0.2.4",
+    "vite": "^5.1.0"
+  }
+}
